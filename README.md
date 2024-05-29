@@ -34,6 +34,5 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/charleysanchez/charleysanchez/blob/output/github-contribution-grid-snake.svg)
- 
+![snake gif](https://github.com/charleysanchez/charleysanchez/blob/output/github-contribution-grid-snake.gif) 
 </div>
