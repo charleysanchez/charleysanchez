@@ -6,7 +6,6 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleysanchez&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charleysanchez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
-[![Charley's GitHub stats](https://github-readme-stats.vercel.app/api?username=charleysanchez)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=charleysanchez" />
 </a>
