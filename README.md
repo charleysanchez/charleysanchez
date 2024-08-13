@@ -4,12 +4,9 @@
  <div>
   <a href="https://github.com/charleysanchez">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleysanchez&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charleysanchez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img height=200 align="center" src="https://github-readme-stats-kappa-mauve.vercel.app/api?username=charleysanchez&count_private=true&theme=dracula&hide=issues&show_icons=true" />
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-kappa-mauve.vercel.app/api?username=charleysanchez&count_private=true&theme=dracula&hide=issues&show_icons=true" />
-</a>
- 
+
  ## Skills
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Charley-Sanchez" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
