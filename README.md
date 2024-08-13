@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=charleysanchez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats-kappa-mauve.vercel.app/api?username=charleysanchez](https://github-readme-stats-charleysanchezs-projects.vercel.app/)" />
+  <img height=200 align="center" src="https://github-readme-stats-79kf9i3mm-charleysanchezs-projects.vercel.app" />
 </a>
  
  ## Skills
