@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Charley+Sanchez!+%F0%9F%91%8B;ML+Researcher+%7C+PhD+Applicant;Healthcare+AI+%7C+Causal+Inference" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Charley+Sanchez;ML+Researcher+%7C+PhD+Applicant;Healthcare+AI+%7C+Causal+Inference" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔬 About Me
+## About Me
 
 I'm a researcher passionate about developing **machine learning methods for healthcare** with a focus on:
 
@@ -27,7 +27,7 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
 
 ---
 
-## 🎯 Featured Research Projects
+## Featured Research Projects
 
 <table>
   <tr>
@@ -60,21 +60,12 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
       </p>
       <p>Deep learning pipeline for automated brain tumor segmentation from MRI scans using medical imaging techniques.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">AlphaFold Research</h3>
-      <p align="center">
-        <a href="https://github.com/charleysanchez/alphafold-research">
-          <img src="https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Research and implementation exploring protein structure prediction with AlphaFold.</p>
-    </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Fun Projects
+## Fun Projects
 
 <table>
   <tr>
@@ -85,7 +76,7 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
           <img src="https://img.shields.io/badge/View_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Deep Learning model trained on Google Street View images to predict global coordinates. Think GeoGuessr, but with AI! 🗺️</p>
+      <p>Deep Learning model trained on Google Street View images to predict global coordinates. Think GeoGuessr, but with AI!</p>
     </td>
     <td width="50%">
       <h3 align="center"> GPT Transformer</h3>
@@ -97,16 +88,7 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
       <p>From-scratch implementation of GPT and Transformer architectures in PyTorch for learning the fundamentals.</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"> Stock Predictor</h3>
-      <p align="center">
-        <a href="https://github.com/charleysanchez/stock-price-predictor">
-          <img src="https://img.shields.io/badge/View_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>Machine learning model for stock price prediction using time series analysis.</p>
-    </td>
+  <tr> 
     <td width="50%">
       <h3 align="center"> Ray Tracer</h3>
       <p align="center">
@@ -121,7 +103,7 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <details open>
 <summary><b> Machine Learning & AI</b></summary>
@@ -137,7 +119,7 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
 </details>
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -150,7 +132,7 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
+<summary><b>Tools & Platforms</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -183,8 +165,8 @@ Currently exploring PhD opportunities to advance research in trustworthy and imp
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=charleysanchez&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charleysanchez&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-kappa-mauve.vercel.app/api?username=charleysanchez&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <img height="180" src="https://github-readme-stats-kappa-mauve.vercel.app/api/top-langs/?username=charleysanchez&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
